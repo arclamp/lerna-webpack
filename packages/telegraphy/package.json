@@ -1,6 +1,6 @@
 {
   "name": "telegraphy",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "",
   "main": "dist/telegraphy.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "telegraph-events": "^1.0.3"
   },
   "devDependencies": {
     "webpack": "^4.6.0",

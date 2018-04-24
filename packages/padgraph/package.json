@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "leftPaddy": "0.0.0",
+    "left-paddy": "0.0.0",
     "telegraphy": "0.0.0"
   },
   "devDependencies": {

@@ -3,9 +3,9 @@ var telegraphy = require('telegraphy');
 
 console.log(leftPaddy('yay', '!'));
 
-var obj = telegraph({});
+var obj = telegraphy({});
 obj.on('boop', function () {
   console.log('booped!');
 });
 
-obj.trigger('boop');
+obj.emit('boop');
